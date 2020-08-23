@@ -127,5 +127,6 @@ class A_Game_Of_Fingers:
 
 
 if __name__ == '__main__':
+    # Run
     g = A_Game_Of_Fingers()
 
